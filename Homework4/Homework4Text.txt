@@ -1,1 +1,0 @@
-Well, the idea was to have a point and click game where you could talk to many different npcs with various strings of text, but the dialogue system I was using on top of the movement I put together (thanks to Navmesh tech!) wasn't working, so you can basically only really run around by clicking and that's it. But I'm going to keep working at this!
